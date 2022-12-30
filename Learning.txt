@@ -13,3 +13,6 @@ Deployment skill
 -AWS
 -Jenkins
 -Kubernates
+
+could also learn
+-Frontend
