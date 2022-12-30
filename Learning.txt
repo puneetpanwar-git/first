@@ -7,3 +7,9 @@ Springboot developer
 -Core Java
 -MySql
 -Git
+
+Deployment skill
+-Docker
+-AWS
+-Jenkins
+-Kubernates
