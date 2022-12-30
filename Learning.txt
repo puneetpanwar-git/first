@@ -1,0 +1,9 @@
+Hi I'm learning the java Backend.
+
+Springboot developer
+-Hibernate
+-Mvc
+-Jdbc
+-Core Java
+-MySql
+-Git
